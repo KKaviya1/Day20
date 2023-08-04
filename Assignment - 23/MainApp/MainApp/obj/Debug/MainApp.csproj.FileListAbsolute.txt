@@ -1,0 +1,11 @@
+F:\Day - 20\MainApp\MainApp\bin\Debug\MainApp.exe.config
+F:\Day - 20\MainApp\MainApp\bin\Debug\MainApp.exe
+F:\Day - 20\MainApp\MainApp\bin\Debug\MainApp.pdb
+F:\Day - 20\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+F:\Day - 20\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+F:\Day - 20\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+F:\Day - 20\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+F:\Day - 20\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+F:\Day - 20\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+F:\Day - 20\MainApp\MainApp\obj\Debug\MainApp.exe
+F:\Day - 20\MainApp\MainApp\obj\Debug\MainApp.pdb

@@ -1,0 +1,11 @@
+F:\Day - 20\PrjTwo\PrjTwo\bin\Debug\PrjTwo.exe.config
+F:\Day - 20\PrjTwo\PrjTwo\bin\Debug\PrjTwo.exe
+F:\Day - 20\PrjTwo\PrjTwo\bin\Debug\PrjTwo.pdb
+F:\Day - 20\PrjTwo\PrjTwo\bin\Debug\EmpLib.dll
+F:\Day - 20\PrjTwo\PrjTwo\bin\Debug\EmpLib.pdb
+F:\Day - 20\PrjTwo\PrjTwo\obj\Debug\PrjTwo.csproj.AssemblyReference.cache
+F:\Day - 20\PrjTwo\PrjTwo\obj\Debug\PrjTwo.csproj.SuggestedBindingRedirects.cache
+F:\Day - 20\PrjTwo\PrjTwo\obj\Debug\PrjTwo.csproj.CoreCompileInputs.cache
+F:\Day - 20\PrjTwo\PrjTwo\obj\Debug\PrjTwo.csproj.CopyComplete
+F:\Day - 20\PrjTwo\PrjTwo\obj\Debug\PrjTwo.exe
+F:\Day - 20\PrjTwo\PrjTwo\obj\Debug\PrjTwo.pdb

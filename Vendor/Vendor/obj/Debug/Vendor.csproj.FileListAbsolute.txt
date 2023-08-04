@@ -1,0 +1,8 @@
+F:\Day - 20\Vendor\Vendor\bin\Debug\Vendor.exe.config
+F:\Day - 20\Vendor\Vendor\bin\Debug\Vendor.exe
+F:\Day - 20\Vendor\Vendor\bin\Debug\Vendor.pdb
+F:\Day - 20\Vendor\Vendor\obj\Debug\Vendor.csproj.AssemblyReference.cache
+F:\Day - 20\Vendor\Vendor\obj\Debug\Vendor.csproj.SuggestedBindingRedirects.cache
+F:\Day - 20\Vendor\Vendor\obj\Debug\Vendor.csproj.CoreCompileInputs.cache
+F:\Day - 20\Vendor\Vendor\obj\Debug\Vendor.exe
+F:\Day - 20\Vendor\Vendor\obj\Debug\Vendor.pdb

@@ -1,0 +1,6 @@
+F:\Day - 20\WelcomeLib\WelcomeLib\bin\Debug\WelcomeLib.dll
+F:\Day - 20\WelcomeLib\WelcomeLib\bin\Debug\WelcomeLib.pdb
+F:\Day - 20\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.csproj.AssemblyReference.cache
+F:\Day - 20\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.csproj.CoreCompileInputs.cache
+F:\Day - 20\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.dll
+F:\Day - 20\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.pdb

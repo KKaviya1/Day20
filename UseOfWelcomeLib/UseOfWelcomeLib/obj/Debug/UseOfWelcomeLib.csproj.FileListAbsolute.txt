@@ -1,0 +1,11 @@
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\bin\Debug\UseOfWelcomeLib.exe.config
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\bin\Debug\UseOfWelcomeLib.exe
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\bin\Debug\UseOfWelcomeLib.pdb
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\bin\Debug\WelcomeLib.dll
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\bin\Debug\WelcomeLib.pdb
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\obj\Debug\UseOfWelcomeLib.csproj.AssemblyReference.cache
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\obj\Debug\UseOfWelcomeLib.csproj.SuggestedBindingRedirects.cache
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\obj\Debug\UseOfWelcomeLib.csproj.CoreCompileInputs.cache
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\obj\Debug\UseOfWelcomeLib.csproj.CopyComplete
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\obj\Debug\UseOfWelcomeLib.exe
+F:\Day - 20\UseOfWelcomeLib\UseOfWelcomeLib\obj\Debug\UseOfWelcomeLib.pdb

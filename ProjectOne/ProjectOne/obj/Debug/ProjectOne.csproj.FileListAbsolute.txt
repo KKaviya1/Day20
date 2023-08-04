@@ -1,0 +1,11 @@
+F:\Day - 20\ProjectOne\ProjectOne\bin\Debug\ProjectOne.exe.config
+F:\Day - 20\ProjectOne\ProjectOne\bin\Debug\ProjectOne.exe
+F:\Day - 20\ProjectOne\ProjectOne\bin\Debug\ProjectOne.pdb
+F:\Day - 20\ProjectOne\ProjectOne\bin\Debug\EmpLib.dll
+F:\Day - 20\ProjectOne\ProjectOne\bin\Debug\EmpLib.pdb
+F:\Day - 20\ProjectOne\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+F:\Day - 20\ProjectOne\ProjectOne\obj\Debug\ProjectOne.csproj.SuggestedBindingRedirects.cache
+F:\Day - 20\ProjectOne\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+F:\Day - 20\ProjectOne\ProjectOne\obj\Debug\ProjectOne.csproj.CopyComplete
+F:\Day - 20\ProjectOne\ProjectOne\obj\Debug\ProjectOne.exe
+F:\Day - 20\ProjectOne\ProjectOne\obj\Debug\ProjectOne.pdb

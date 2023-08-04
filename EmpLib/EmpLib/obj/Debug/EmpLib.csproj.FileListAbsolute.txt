@@ -1,0 +1,6 @@
+F:\Day - 20\EmpLib\EmpLib\bin\Debug\EmpLib.dll
+F:\Day - 20\EmpLib\EmpLib\bin\Debug\EmpLib.pdb
+F:\Day - 20\EmpLib\EmpLib\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+F:\Day - 20\EmpLib\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+F:\Day - 20\EmpLib\EmpLib\obj\Debug\EmpLib.dll
+F:\Day - 20\EmpLib\EmpLib\obj\Debug\EmpLib.pdb
